@@ -1,7 +1,7 @@
 # CMPUT 301: Lab 1 Participation Exercise
 
 ## Student Details
-- **Full Name:** `<Yu Xiang Wi (Sam Wu)>`
+- **Full Name:** `<Yu Xiang Wu (Sam Wu)>`
 - **CCID:** `<1852801>`
 
 ## References and Resources
